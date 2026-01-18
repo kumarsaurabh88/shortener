@@ -1,0 +1,15 @@
+routes/
+bootstrap/
+storage/
+database/
+app/
+config/
+resources/
+tests/
+public/
+vendor/
+artisan
+composer.json
+composer.lock
+.env
+.env.local
